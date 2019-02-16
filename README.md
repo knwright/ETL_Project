@@ -14,6 +14,6 @@
 
 
 
-
+URL for Amazon scrape = http://www.amazon.com/dp/{ASIN}
 
 
