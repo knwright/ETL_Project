@@ -1,6 +1,6 @@
 # ETL_Project
 
-1) Extract ASIN numbers from 21stCenturyBooks.csv and use them to create unique query urls to scrape Amazon.com for the following:
+1) Extract ASIN numbers from 21stCenturyBooks_Amazon.csv and use them to create unique query urls to scrape Amazon.com for the following:
     - Book Title
     - Amazon's Price
     - List Price
