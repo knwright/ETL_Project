@@ -10,7 +10,7 @@
 
 3) Build the MySQL schema 21CenturyBookData and import Amazon_Book_Data.csv and Lerner_Product_internal.csv into it.
 
-4) The primary purpose of this schema is to compare Amazon's price with Lerner Publishing's list price.
+4) The primary purpose of this schema is to compare Amazon's price with Lerner Publishing's list price for 21st Century Books.
 
 
 
