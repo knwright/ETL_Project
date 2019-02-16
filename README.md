@@ -1,6 +1,6 @@
 # ETL_Project
 
-1) Using Amazon Retail Analytics  
+1) Using vendor central
 
 
 
