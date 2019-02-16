@@ -4,7 +4,8 @@
     - Book Title
     - Amazon's Price
     - List Price
-    - Product Details
+    - ISBN1-10
+    - Product Dimensions
 
 2) Save the scraped data as Amazon_Book_Data.csv.
 
