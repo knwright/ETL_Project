@@ -2,7 +2,7 @@ from splinter import Browser
 from bs4 import BeautifulSoup as bs
 import time
 import csv
-from urllib3.request import urlopen
+from urllib.request import urlopen
 
 url_list = []
 # Open the url file in read mode
@@ -14,7 +14,7 @@ with open("urlfile.csv", "r") as csvf:
 
 for url in url_list:
     page = urlopen(url[0]).read()
-    soup = BeautifulSoup(page, "html.parser")
+    soup = bs(page, "html.parser")
 
 print(soup)
 
