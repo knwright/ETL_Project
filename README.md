@@ -2,10 +2,10 @@
 
 1) Extract ASIN numbers from lerner_catalog_data.csv and use them to create unique query urls to scrape Amazon.com for the following:
     - Book Title
-    - Amazon's Price
+    - Barnes and Noble's Price
     - List Price
     - ISBN-10
-    - Product Dimensions
+    - Product Details
     - Customer Rating
 
 2) Save the scraped data as Barnes_book_data.csv.
