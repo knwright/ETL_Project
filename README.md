@@ -16,6 +16,6 @@
 
 
 
-URL for Amazon scrape = 'http://search.barnesandnoble.com/bookSearch/isbnInquiry.asp?isbn={ISBN}
+URL for B&N scrape = 'http://search.barnesandnoble.com/bookSearch/isbnInquiry.asp?isbn={ISBN}
 
 
