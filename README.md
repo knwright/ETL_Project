@@ -12,7 +12,7 @@
 
 3) Build the sqlite database that includes data from barnes_Book_Data.csv and Lerner_Product_internal.csv into it.
 
-4) The primary purpose of this schema is to compare Amazon's price with Lerner Publishing's list price for 21st Century Books.
+4) The primary purpose of this schema is to compare Barnes & Noble's price with Lerner Publishing's list price for 21st Century Books.
 
 
 
