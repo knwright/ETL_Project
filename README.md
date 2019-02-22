@@ -19,3 +19,8 @@
 URL for B&N scrape = 'http://search.barnesandnoble.com/bookSearch/isbnInquiry.asp?isbn={ISBN}
 
 
+Team Members:
+Justin Miller
+Dave Kingsley
+Katie Wright
+Ricky Ravin
